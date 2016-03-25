@@ -1,2 +1,4 @@
 RedirectMatch 404 /\.git
 
+ErrorDocument 404 /error.html
+
